@@ -1,1 +1,1 @@
-# Multiple-Attribute-Decision-Making
+# Multiple-Objective-Decision-Making
